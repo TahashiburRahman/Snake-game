@@ -46,14 +46,15 @@
 .head{
     background-color: pink;
     border: .50vmin solid black;
-    border-radius: 50px;
+    border-radius: 50%;
     border-style: double;
 }
 
 .snake{
     background: linear-gradient(#3c6389,#9499c4);
-    border-radius: 50% solid black;
+    border-radius: 50%;
     border-style: dotted;
+    border: .50vmin solid black;
 }
 
 .food{
